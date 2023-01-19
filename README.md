@@ -1,0 +1,20 @@
+# jsontojavaobject
+
+{
+   "name":"DHRUV SAHU",
+   "employee":{
+      "department":"Operations",
+      "salary":"$1Mn",
+      "designation":"COO"
+   },
+   "management":[
+      {
+         "team":"01",
+         "name":"Finance"
+      },
+      {
+         "team":"02",
+         "name":"Operations"
+      }
+   ]
+}
